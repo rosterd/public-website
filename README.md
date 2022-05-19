@@ -1,1 +1,5 @@
-# public-website
+# Rosterd
+npm install
+
+
+npm run build
