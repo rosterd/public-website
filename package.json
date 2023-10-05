@@ -7,9 +7,9 @@
 		"build": "gulp build --production true"
 	},
 	"devDependencies": {
-		"autoprefixer": "^9.5.0",
+		"autoprefixer": "^10.4.16",
 		"browser-sync": "^2.26.3",
-		"cssnano": "^4.1.10",
+		"cssnano": "^6.0.1",
 		"del": "^4.0.0",
 		"gulp": "^4.0.0",
 		"gulp-changed": "^3.2.0",
@@ -18,7 +18,7 @@
 		"gulp-concat": "^2.6.1",
 		"gulp-hash-src": "^0.1.6",
 		"gulp-jsbeautifier": "^3.0.1",
-		"gulp-postcss": "^8.0.0",
+		"gulp-postcss": "^9.0.1",
 		"gulp-posthtml": "^3.0.5",
 		"gulp-prettier": "^2.1.0",
 		"gulp-sass": "^5.1.0",
